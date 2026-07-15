@@ -68,7 +68,7 @@ These attributes are used to analyze customer demographics and purchasing behavi
 
 ---
 
-⚙ Installation
+## ⚙ Installation
 1. Clone the Repository
 
 ```bash
@@ -108,7 +108,7 @@ Run all notebook cells sequentially.
 
 ---
 
-🚀 Usage
+## 🚀 Usage
 
 1. Load the Black Friday dataset.
 2. Perform data cleaning.
@@ -161,7 +161,7 @@ Conclusion
 
 ---
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Build predictive models for purchase amount prediction.
 - Perform customer segmentation using clustering algorithms.
@@ -172,7 +172,7 @@ Conclusion
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 BlackFriday-Sales-Analysis/
 │
