@@ -120,7 +120,7 @@ Run all notebook cells sequentially.
 
 ---
 
-🔄 Project Workflow
+## 🔄 Project Workflow
 
 ```
 Dataset Collection
